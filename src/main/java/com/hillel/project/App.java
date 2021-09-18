@@ -6,7 +6,8 @@ import com.hillel.project.controllers.MainController;
 
 
 public class App {
-//gggg
+
+
     public static void main(String[] args) {
 
         ControllersFactory controllersFactory = ApplicationConfig.FACTORY;
